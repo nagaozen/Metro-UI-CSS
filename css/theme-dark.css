@@ -9,63 +9,63 @@
 body {
   background: #1d1d1d;
 }
-.text-rest-state {
+.metrouicss .text-rest-state {
   color: #ffffff;
 }
-.text-rest2-state {
+.metrouicss .text-rest2-state {
   color: rgba(255, 255, 255, 0.6);
 }
-.text-hover-state {
+.metrouicss .text-hover-state {
   color: rgba(255, 255, 255, 0.8);
 }
-.text-pressed-state {
+.metrouicss .text-pressed-state {
   color: rgba(255, 255, 255, 0.4);
 }
-.link-text {
+.metrouicss .link-text {
   color: #9466ff;
 }
-.link-text:hover {
+.metrouicss .link-text:hover {
   color: rgba(148, 102, 255, 0.8);
 }
-.link-text:active {
+.metrouicss .link-text:active {
   color: rgba(148, 102, 255, 0.6);
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+.metrouicss h1,
+.metrouicss h2,
+.metrouicss h3,
+.metrouicss h4,
+.metrouicss h5,
+.metrouicss h6 {
   color: #ffffff;
 }
-h1:hover,
-h2:hover,
-h3:hover,
-h4:hover,
-h5:hover,
-h6:hover {
+.metrouicss h1:hover,
+.metrouicss h2:hover,
+.metrouicss h3:hover,
+.metrouicss h4:hover,
+.metrouicss h5:hover,
+.metrouicss h6:hover {
   color: rgba(255, 255, 255, 0.8);
 }
-h1:active,
-h2:active,
-h3:active,
-h4:active,
-h5:active,
-h6:active {
+.metrouicss h1:active,
+.metrouicss h2:active,
+.metrouicss h3:active,
+.metrouicss h4:active,
+.metrouicss h5:active,
+.metrouicss h6:active {
   color: rgba(255, 255, 255, 0.4);
 }
-a,
-.link {
+.metrouicss a,
+.metrouicss .link {
   color: #9466ff;
 }
-a:hover,
-.link:hover {
+.metrouicss a:hover,
+.metrouicss .link:hover {
   color: rgba(148, 102, 255, 0.8);
 }
-a:active,
-.link:active {
+.metrouicss a:active,
+.metrouicss .link:active {
   color: rgba(148, 102, 255, 0.6);
 }
-.page .page-header .page-header-content .user-login .name {
+.metrouicss .page .page-header .page-header-content .user-login .name {
   color: #fff;
 }
